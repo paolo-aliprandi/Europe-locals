@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T08:54:31.129Z",
+  "generatedAt": "2026-07-28T11:51:46.375Z",
   "year": 2023,
   "records": [
     {
@@ -11,7 +11,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.015Z",
+        "retrievedAt": "2026-07-28T11:51:43.355Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 9104772,
@@ -267,7 +267,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.017Z",
+        "retrievedAt": "2026-07-28T11:51:43.357Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 11742796,
@@ -523,7 +523,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.017Z",
+        "retrievedAt": "2026-07-28T11:51:43.357Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 6447710,
@@ -779,7 +779,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.017Z",
+        "retrievedAt": "2026-07-28T11:51:43.357Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 3850894,
@@ -884,7 +884,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.017Z",
+        "retrievedAt": "2026-07-28T11:51:43.357Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 949084,
@@ -989,7 +989,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.017Z",
+        "retrievedAt": "2026-07-28T11:51:43.358Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 10827529,
@@ -1245,7 +1245,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.018Z",
+        "retrievedAt": "2026-07-28T11:51:43.358Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 5932654,
@@ -1350,7 +1350,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.018Z",
+        "retrievedAt": "2026-07-28T11:51:43.358Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 1365884,
@@ -1606,7 +1606,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.018Z",
+        "retrievedAt": "2026-07-28T11:51:43.358Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 5563970,
@@ -1862,7 +1862,7 @@
         "name": "Eurostat + INSEE",
         "url": "https://www.insee.fr/fr/statistiques/8582067?sommaire=8582090&geo=METRO-1",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre; INSEE IMG1B RP2022",
-        "retrievedAt": "2026-07-28T08:54:28.018Z",
+        "retrievedAt": "2026-07-28T11:51:43.359Z",
         "methodologyNote": "Country-level totals use Eurostat 2023. France top origin groups are enriched from INSEE IMG1B RP2022 France métropolitaine country-of-birth data because Eurostat does not expose Algeria/Morocco detail for France in migr_pop3ctb/migr_pop1ctz. Irregular-presence detections use Eurostat migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 68277210,
@@ -2118,7 +2118,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.019Z",
+        "retrievedAt": "2026-07-28T11:51:43.359Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 83118501,
@@ -2374,7 +2374,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.019Z",
+        "retrievedAt": "2026-07-28T11:51:43.359Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 10401868,
@@ -2479,7 +2479,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.019Z",
+        "retrievedAt": "2026-07-28T11:51:43.359Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 9599744,
@@ -2735,7 +2735,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.019Z",
+        "retrievedAt": "2026-07-28T11:51:43.360Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 387758,
@@ -2991,7 +2991,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.020Z",
+        "retrievedAt": "2026-07-28T11:51:43.360Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 5271395,
@@ -3247,7 +3247,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.020Z",
+        "retrievedAt": "2026-07-28T11:51:43.360Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 58997201,
@@ -3503,7 +3503,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.020Z",
+        "retrievedAt": "2026-07-28T11:51:43.360Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 1895239,
@@ -3759,7 +3759,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.020Z",
+        "retrievedAt": "2026-07-28T11:51:43.360Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 39677,
@@ -3864,7 +3864,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.020Z",
+        "retrievedAt": "2026-07-28T11:51:43.361Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 2857279,
@@ -4120,7 +4120,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.021Z",
+        "retrievedAt": "2026-07-28T11:51:43.361Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 660809,
@@ -4376,7 +4376,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.021Z",
+        "retrievedAt": "2026-07-28T11:51:43.361Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 542051,
@@ -4481,7 +4481,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.021Z",
+        "retrievedAt": "2026-07-28T11:51:43.362Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 17811291,
@@ -4737,7 +4737,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.021Z",
+        "retrievedAt": "2026-07-28T11:51:43.362Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 5488984,
@@ -4993,7 +4993,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.021Z",
+        "retrievedAt": "2026-07-28T11:51:43.362Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 36753736,
@@ -5098,7 +5098,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.022Z",
+        "retrievedAt": "2026-07-28T11:51:43.362Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 10516621,
@@ -5354,7 +5354,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.022Z",
+        "retrievedAt": "2026-07-28T11:51:43.362Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 19055228,
@@ -5610,7 +5610,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.022Z",
+        "retrievedAt": "2026-07-28T11:51:43.363Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 5428792,
@@ -5866,7 +5866,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.022Z",
+        "retrievedAt": "2026-07-28T11:51:43.363Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 2116972,
@@ -6122,7 +6122,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.023Z",
+        "retrievedAt": "2026-07-28T11:51:43.363Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 48085361,
@@ -6378,7 +6378,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.023Z",
+        "retrievedAt": "2026-07-28T11:51:43.363Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 10521556,
@@ -6626,111 +6626,6 @@
       ]
     },
     {
-      "geoId": "CH",
-      "geoName": "Switzerland",
-      "granularity": "country",
-      "year": 2023,
-      "source": {
-        "name": "Eurostat",
-        "url": "https://ec.europa.eu/eurostat/databrowser/",
-        "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.023Z",
-        "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
-      },
-      "totalPopulation": 8815385,
-      "localBornPopulation": 6081451,
-      "foreignBornPopulation": 2662038,
-      "nonCitizenPopulation": 2294345,
-      "irregularPresenceDetections": 19280,
-      "localBornShare": 68.99,
-      "foreignBornShare": 30.2,
-      "nonCitizenShare": 26.03,
-      "unknownBirthPopulation": 71896,
-      "origins": [],
-      "migrationTrend": [
-        {
-          "year": 2014,
-          "totalPopulation": 8139631,
-          "localBornPopulation": 5850071,
-          "foreignBornPopulation": 2183206,
-          "localBornShare": 71.87,
-          "foreignBornShare": 26.82
-        },
-        {
-          "year": 2015,
-          "totalPopulation": 8237666,
-          "localBornPopulation": 5882829,
-          "foreignBornPopulation": 2258196,
-          "localBornShare": 71.41,
-          "foreignBornShare": 27.41
-        },
-        {
-          "year": 2016,
-          "totalPopulation": 8327126,
-          "localBornPopulation": 5910732,
-          "foreignBornPopulation": 2324461,
-          "localBornShare": 70.98,
-          "foreignBornShare": 27.91
-        },
-        {
-          "year": 2017,
-          "totalPopulation": 8419550,
-          "localBornPopulation": 5939518,
-          "foreignBornPopulation": 2391480,
-          "localBornShare": 70.54,
-          "foreignBornShare": 28.4
-        },
-        {
-          "year": 2018,
-          "totalPopulation": 8484130,
-          "localBornPopulation": 5965062,
-          "foreignBornPopulation": 2432519,
-          "localBornShare": 70.31,
-          "foreignBornShare": 28.67
-        },
-        {
-          "year": 2019,
-          "totalPopulation": 8544527,
-          "localBornPopulation": 5991111,
-          "foreignBornPopulation": 2469381,
-          "localBornShare": 70.12,
-          "foreignBornShare": 28.9
-        },
-        {
-          "year": 2020,
-          "totalPopulation": 8606033,
-          "localBornPopulation": 6015994,
-          "foreignBornPopulation": 2509692,
-          "localBornShare": 69.9,
-          "foreignBornShare": 29.16
-        },
-        {
-          "year": 2021,
-          "totalPopulation": 8670300,
-          "localBornPopulation": 6039868,
-          "foreignBornPopulation": 2553225,
-          "localBornShare": 69.66,
-          "foreignBornShare": 29.45
-        },
-        {
-          "year": 2022,
-          "totalPopulation": 8738791,
-          "localBornPopulation": 6066351,
-          "foreignBornPopulation": 2598146,
-          "localBornShare": 69.42,
-          "foreignBornShare": 29.73
-        },
-        {
-          "year": 2023,
-          "totalPopulation": 8815385,
-          "localBornPopulation": 6081451,
-          "foreignBornPopulation": 2662038,
-          "localBornShare": 68.99,
-          "foreignBornShare": 30.2
-        }
-      ]
-    },
-    {
       "geoId": "TR",
       "geoName": "Türkiye",
       "granularity": "country",
@@ -6739,7 +6634,7 @@
         "name": "Eurostat",
         "url": "https://ec.europa.eu/eurostat/databrowser/",
         "datasetCode": "migr_pop3ctb, migr_pop1ctz, migr_eipre",
-        "retrievedAt": "2026-07-28T08:54:28.023Z",
+        "retrievedAt": "2026-07-28T11:51:43.364Z",
         "methodologyNote": "Country-of-birth metrics use Eurostat migr_pop3ctb (NAT/FOR/TOTAL). Non-citizen and top origin groups use Eurostat migr_pop1ctz citizenship data. Irregular-presence detections use migr_eipre and are enforcement counts, not a resident-population estimate."
       },
       "totalPopulation": 85279553,
@@ -6939,7 +6834,7 @@
         "name": "ONS / Nomis",
         "url": "https://www.nomisweb.co.uk/sources/census_2021_bulk",
         "datasetCode": "Census 2021 TS012, TS005",
-        "retrievedAt": "2026-07-28T08:54:28.024Z",
+        "retrievedAt": "2026-07-28T11:51:43.364Z",
         "methodologyNote": "UK data uses Nomis Census 2021 TS012 country-of-birth and TS005 passports-held tables."
       },
       "totalPopulation": 59597538,

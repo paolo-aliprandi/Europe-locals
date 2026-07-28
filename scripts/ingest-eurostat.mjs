@@ -64,6 +64,7 @@ const aggregateCodes = new Set([
   "OCE",
   "OCE_OTH",
 ]);
+const excludedCountryGeoIds = new Set(["CH"]);
 
 const ukBirthColumnToIso = new Map([
   ["Country of birth: Europe: Other Europe: EU countries: Member countries in March 2001: Ireland; measures: Value", "IE"],
@@ -584,6 +585,7 @@ const regionalPopulationByGeoId = new Map(
 );
 const geoIds = [...new Set(birthRows.map((row) => row.geo))]
   .filter((geoId) => countryNames.has(geoId))
+  .filter((geoId) => !excludedCountryGeoIds.has(geoId))
   .sort((left, right) => countryNames.get(left).localeCompare(countryNames.get(right)));
 
 const records = geoIds

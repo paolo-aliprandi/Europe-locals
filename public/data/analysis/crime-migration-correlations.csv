@@ -29,7 +29,6 @@ country_time_series,SK,Slovakia,,ICCS03011,Rape,10,0.779,strong
 country_time_series,SI,Slovenia,,ICCS03011,Rape,10,0.737,strong
 country_time_series,ES,Spain,,ICCS03011,Rape,10,0.895,strong
 country_time_series,SE,Sweden,,ICCS03011,Rape,10,0.938,strong
-country_time_series,CH,Switzerland,,ICCS03011,Rape,10,0.916,strong
 country_time_series,TR,Türkiye,,ICCS03011,Rape,0,,insufficient data
 country_time_series,UK,United Kingdom,,ICCS03011,Rape,0,,insufficient data
-cross_country_snapshot,,,2023,ICCS03011,Rape,30,0.081,very weak
+cross_country_snapshot,,,2023,ICCS03011,Rape,29,0.101,very weak

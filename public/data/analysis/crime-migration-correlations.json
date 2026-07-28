@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T09:22:49.221Z",
+  "generatedAt": "2026-07-28T11:51:46.675Z",
   "caveat": "This is an exploratory correlation analysis using aggregate country-level data. It does not establish causation, and cross-country police-recorded crime data are affected by reporting, legal, and recording differences.",
   "sources": [
     {
@@ -695,29 +695,6 @@
       "strength": "strong"
     },
     {
-      "geoId": "CH",
-      "geoName": "Switzerland",
-      "offenceCode": "ICCS03011",
-      "offenceLabel": "Rape",
-      "migrationMetric": "foreignBornShare",
-      "crimeMetric": "policeRecordedOffencesPer100k",
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023
-      ],
-      "observations": 10,
-      "correlation": 0.916,
-      "strength": "strong"
-    },
-    {
       "geoId": "TR",
       "geoName": "Türkiye",
       "offenceCode": "ICCS03011",
@@ -749,8 +726,8 @@
       "offenceLabel": "Rape",
       "migrationMetric": "foreignBornShare",
       "crimeMetric": "policeRecordedOffencesPer100k",
-      "observations": 30,
-      "correlation": 0.081,
+      "observations": 29,
+      "correlation": 0.101,
       "strength": "very weak"
     }
   ],
@@ -2269,58 +2246,6 @@
             {
               "year": 2023,
               "ratePer100k": 84.66
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "geoId": "CH",
-      "geoName": "Switzerland",
-      "offences": [
-        {
-          "offenceCode": "ICCS03011",
-          "offenceLabel": "Rape",
-          "points": [
-            {
-              "year": 2014,
-              "ratePer100k": 6.83
-            },
-            {
-              "year": 2015,
-              "ratePer100k": 6.46
-            },
-            {
-              "year": 2016,
-              "ratePer100k": 7.06
-            },
-            {
-              "year": 2017,
-              "ratePer100k": 7.35
-            },
-            {
-              "year": 2018,
-              "ratePer100k": 7.38
-            },
-            {
-              "year": 2019,
-              "ratePer100k": 7.95
-            },
-            {
-              "year": 2020,
-              "ratePer100k": 8.28
-            },
-            {
-              "year": 2021,
-              "ratePer100k": 8.73
-            },
-            {
-              "year": 2022,
-              "ratePer100k": 9.92
-            },
-            {
-              "year": 2023,
-              "ratePer100k": 9.52
             }
           ]
         }
