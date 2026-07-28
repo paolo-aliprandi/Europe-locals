@@ -1,0 +1,2352 @@
+{
+  "generatedAt": "2026-07-28T09:22:49.221Z",
+  "caveat": "This is an exploratory correlation analysis using aggregate country-level data. It does not establish causation, and cross-country police-recorded crime data are affected by reporting, legal, and recording differences.",
+  "sources": [
+    {
+      "name": "Eurostat police-recorded offences by offence category",
+      "datasetCode": "crim_off_cat",
+      "unit": "P_HTHAB",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table?lang=en"
+    },
+    {
+      "name": "Project demographic country dataset",
+      "datasetCode": "migr_pop3ctb-derived",
+      "url": "public/data/demographics/country-2023.json"
+    }
+  ],
+  "timeSeriesCorrelations": [
+    {
+      "geoId": "AT",
+      "geoName": "Austria",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.961,
+      "strength": "strong"
+    },
+    {
+      "geoId": "BE",
+      "geoName": "Belgium",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.943,
+      "strength": "strong"
+    },
+    {
+      "geoId": "BG",
+      "geoName": "Bulgaria",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": -0.709,
+      "strength": "strong"
+    },
+    {
+      "geoId": "HR",
+      "geoName": "Croatia",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": -0.399,
+      "strength": "weak"
+    },
+    {
+      "geoId": "CY",
+      "geoName": "Cyprus",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.757,
+      "strength": "strong"
+    },
+    {
+      "geoId": "CZ",
+      "geoName": "Czechia",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.702,
+      "strength": "strong"
+    },
+    {
+      "geoId": "DK",
+      "geoName": "Denmark",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.886,
+      "strength": "strong"
+    },
+    {
+      "geoId": "EE",
+      "geoName": "Estonia",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.296,
+      "strength": "weak"
+    },
+    {
+      "geoId": "FI",
+      "geoName": "Finland",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.964,
+      "strength": "strong"
+    },
+    {
+      "geoId": "FR",
+      "geoName": "France",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.951,
+      "strength": "strong"
+    },
+    {
+      "geoId": "DE",
+      "geoName": "Germany",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.897,
+      "strength": "strong"
+    },
+    {
+      "geoId": "EL",
+      "geoName": "Greece",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": -0.811,
+      "strength": "strong"
+    },
+    {
+      "geoId": "HU",
+      "geoName": "Hungary",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.473,
+      "strength": "moderate"
+    },
+    {
+      "geoId": "IS",
+      "geoName": "Iceland",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.059,
+      "strength": "very weak"
+    },
+    {
+      "geoId": "IE",
+      "geoName": "Ireland",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.862,
+      "strength": "strong"
+    },
+    {
+      "geoId": "IT",
+      "geoName": "Italy",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [],
+      "observations": 0,
+      "correlation": null,
+      "strength": "insufficient data"
+    },
+    {
+      "geoId": "LV",
+      "geoName": "Latvia",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": -0.846,
+      "strength": "strong"
+    },
+    {
+      "geoId": "LI",
+      "geoName": "Liechtenstein",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": -0.021,
+      "strength": "very weak"
+    },
+    {
+      "geoId": "LT",
+      "geoName": "Lithuania",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": -0.554,
+      "strength": "moderate"
+    },
+    {
+      "geoId": "LU",
+      "geoName": "Luxembourg",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.786,
+      "strength": "strong"
+    },
+    {
+      "geoId": "MT",
+      "geoName": "Malta",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.675,
+      "strength": "moderate"
+    },
+    {
+      "geoId": "NL",
+      "geoName": "Netherlands",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.893,
+      "strength": "strong"
+    },
+    {
+      "geoId": "NO",
+      "geoName": "Norway",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.555,
+      "strength": "moderate"
+    },
+    {
+      "geoId": "PL",
+      "geoName": "Poland",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": -0.857,
+      "strength": "strong"
+    },
+    {
+      "geoId": "PT",
+      "geoName": "Portugal",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.62,
+      "strength": "moderate"
+    },
+    {
+      "geoId": "RO",
+      "geoName": "Romania",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.966,
+      "strength": "strong"
+    },
+    {
+      "geoId": "SK",
+      "geoName": "Slovakia",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.779,
+      "strength": "strong"
+    },
+    {
+      "geoId": "SI",
+      "geoName": "Slovenia",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.737,
+      "strength": "strong"
+    },
+    {
+      "geoId": "ES",
+      "geoName": "Spain",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.895,
+      "strength": "strong"
+    },
+    {
+      "geoId": "SE",
+      "geoName": "Sweden",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.938,
+      "strength": "strong"
+    },
+    {
+      "geoId": "CH",
+      "geoName": "Switzerland",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "observations": 10,
+      "correlation": 0.916,
+      "strength": "strong"
+    },
+    {
+      "geoId": "TR",
+      "geoName": "Türkiye",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [],
+      "observations": 0,
+      "correlation": null,
+      "strength": "insufficient data"
+    },
+    {
+      "geoId": "UK",
+      "geoName": "United Kingdom",
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "years": [],
+      "observations": 0,
+      "correlation": null,
+      "strength": "insufficient data"
+    }
+  ],
+  "crossCountrySnapshot": [
+    {
+      "year": 2023,
+      "offenceCode": "ICCS03011",
+      "offenceLabel": "Rape",
+      "migrationMetric": "foreignBornShare",
+      "crimeMetric": "policeRecordedOffencesPer100k",
+      "observations": 30,
+      "correlation": 0.081,
+      "strength": "very weak"
+    }
+  ],
+  "countryCrimeTrends": [
+    {
+      "geoId": "AT",
+      "geoName": "Austria",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 13.68
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 13.18
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 14.17
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 17.01
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 18.88
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 18.92
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 18.92
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 20.61
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 22.89
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 25.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "BE",
+      "geoName": "Belgium",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 28.51
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 28.75
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 30.44
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 32.83
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 33.93
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 36.85
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 34.72
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 40.55
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 41.82
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 41.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "BG",
+      "geoName": "Bulgaria",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 2.04
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 1.65
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 1.78
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 2
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 1.6
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 1.87
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 1.57
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 1.16
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 1.4
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 1.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "HR",
+      "geoName": "Croatia",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 7.89
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 6.11
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 7.59
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 5.92
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 7.23
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 11.58
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 7.44
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 11.17
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 9.24
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 10.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "CY",
+      "geoName": "Cyprus",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 1.98
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 2.48
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 2.59
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 2.22
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 3.24
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 1.83
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 3.15
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 6.14
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 6.3
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 4.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "CZ",
+      "geoName": "Czechia",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 6.36
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 5.67
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 6.15
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 5.65
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 6.14
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 6.41
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 5.98
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 14.21
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 16.29
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 16.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "DK",
+      "geoName": "Denmark",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 14.87
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 18.57
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 29.42
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 31.36
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 38.35
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 35.33
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 37.35
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 45.51
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 48.2
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 40.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "EE",
+      "geoName": "Estonia",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 11.17
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 12.24
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 11.55
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 11.4
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 16.07
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 15.32
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 11.44
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 13.98
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 11.41
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 13.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "FI",
+      "geoName": "Finland",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 18.51
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 19.06
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 21.14
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 22.62
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 25.27
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 27.38
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 27.47
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 36.23
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 33.47
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 43.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "FR",
+      "geoName": "France",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 18.44
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 19.28
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 22.52
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 24.35
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 28.58
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 34.05
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 37.95
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 50.13
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 55.98
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "DE",
+      "geoName": "Germany",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 9.09
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 8.65
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 9.64
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 10.07
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 10.91
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 11.53
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 12.17
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 12.52
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 15.09
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 15.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "EL",
+      "geoName": "Greece",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 1.23
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 1.12
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 1.44
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 1.45
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 1.46
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 1.7
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 1.6
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 2.43
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 3.18
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 2.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "HU",
+      "geoName": "Hungary",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 3.22
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 3.86
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 6.08
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 6
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 5.53
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 3.9
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 5.16
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 4.86
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 6.06
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 5.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "IS",
+      "geoName": "Iceland",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 39.61
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 54.09
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 55.63
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 62.95
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 75.48
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 60.23
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 43.39
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 57.21
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 68.04
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 45.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "IE",
+      "geoName": "Ireland",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 10.35
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 14.24
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 14.73
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 17.54
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 21.32
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 21.72
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 20.87
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 22.05
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 21.57
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 19.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "IT",
+      "geoName": "Italy",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": []
+        }
+      ]
+    },
+    {
+      "geoId": "LV",
+      "geoName": "Latvia",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 3.75
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 3.02
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 7.21
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 8.26
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 9.1
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 8.91
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 10.59
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 9.09
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 12.9
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 15.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "LI",
+      "geoName": "Liechtenstein",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 13.47
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 5.35
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 5.32
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 13.22
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 13.12
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 2.61
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 7.74
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 5.12
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 10.18
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 12.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "LT",
+      "geoName": "Lithuania",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 5.37
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 5.31
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 3.81
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 4.35
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 4.13
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 3.36
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 2.58
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 2.43
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 2.39
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 3.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "LU",
+      "geoName": "Luxembourg",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 13.28
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 12.08
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 18.39
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 14.22
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 12.62
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 18.9
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 16.61
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 17.33
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 20.3
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 22.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "MT",
+      "geoName": "Malta",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 2.59
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 5.36
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 5.99
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 4.13
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 3.78
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 6.28
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 3.3
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 6.2
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 7.49
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 11.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "NL",
+      "geoName": "Netherlands",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 7.25
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 7.48
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 9.04
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 10.3
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 11.29
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 11.89
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 11.86
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 13.76
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 16.51
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 13.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "NO",
+      "geoName": "Norway",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 31.91
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 36.85
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 42.89
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 43.89
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 48.42
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 41.23
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 41.62
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 45.83
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 41.55
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 42.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "PL",
+      "geoName": "Poland",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 2.09
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 1.73
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 2.08
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 1.89
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 1.99
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 1.87
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 1.5
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 1.54
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 1.57
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 1.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "PT",
+      "geoName": "Portugal",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 3.59
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 3.61
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 3.24
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 3.96
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 4.09
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 4.19
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 3.06
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 3.86
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 5.01
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 4.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "RO",
+      "geoName": "Romania",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 4.39
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 5.11
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 4.76
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 7.05
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 7.49
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 8.04
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 8.25
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 10.16
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 11.78
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 13.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "SK",
+      "geoName": "Slovakia",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 1.59
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 1.6
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 1.51
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 1.77
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 1.82
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 1.78
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 1.69
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 1.69
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 1.97
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 1.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "SI",
+      "geoName": "Slovenia",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 7.81
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 6.2
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 7.99
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 7.65
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 6.68
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 8.75
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 6.97
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 8.25
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 10.35
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 12.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "ES",
+      "geoName": "Spain",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 2.66
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 2.65
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 2.69
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 2.98
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 3.64
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 3.99
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 3.37
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 4.52
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 6.03
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 10.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "SE",
+      "geoName": "Sweden",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 65.26
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 56.88
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 64.06
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 69.72
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 74.85
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 80.85
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 86.02
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 89.74
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 86.38
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 84.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "CH",
+      "geoName": "Switzerland",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": [
+            {
+              "year": 2014,
+              "ratePer100k": 6.83
+            },
+            {
+              "year": 2015,
+              "ratePer100k": 6.46
+            },
+            {
+              "year": 2016,
+              "ratePer100k": 7.06
+            },
+            {
+              "year": 2017,
+              "ratePer100k": 7.35
+            },
+            {
+              "year": 2018,
+              "ratePer100k": 7.38
+            },
+            {
+              "year": 2019,
+              "ratePer100k": 7.95
+            },
+            {
+              "year": 2020,
+              "ratePer100k": 8.28
+            },
+            {
+              "year": 2021,
+              "ratePer100k": 8.73
+            },
+            {
+              "year": 2022,
+              "ratePer100k": 9.92
+            },
+            {
+              "year": 2023,
+              "ratePer100k": 9.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "geoId": "TR",
+      "geoName": "Türkiye",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": []
+        }
+      ]
+    },
+    {
+      "geoId": "UK",
+      "geoName": "United Kingdom",
+      "offences": [
+        {
+          "offenceCode": "ICCS03011",
+          "offenceLabel": "Rape",
+          "points": []
+        }
+      ]
+    }
+  ]
+}

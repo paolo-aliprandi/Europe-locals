@@ -1,0 +1,35 @@
+scope,geoId,geoName,year,offenceCode,offenceLabel,observations,correlation,strength
+country_time_series,AT,Austria,,ICCS03011,Rape,10,0.961,strong
+country_time_series,BE,Belgium,,ICCS03011,Rape,10,0.943,strong
+country_time_series,BG,Bulgaria,,ICCS03011,Rape,10,-0.709,strong
+country_time_series,HR,Croatia,,ICCS03011,Rape,10,-0.399,weak
+country_time_series,CY,Cyprus,,ICCS03011,Rape,10,0.757,strong
+country_time_series,CZ,Czechia,,ICCS03011,Rape,10,0.702,strong
+country_time_series,DK,Denmark,,ICCS03011,Rape,10,0.886,strong
+country_time_series,EE,Estonia,,ICCS03011,Rape,10,0.296,weak
+country_time_series,FI,Finland,,ICCS03011,Rape,10,0.964,strong
+country_time_series,FR,France,,ICCS03011,Rape,10,0.951,strong
+country_time_series,DE,Germany,,ICCS03011,Rape,10,0.897,strong
+country_time_series,EL,Greece,,ICCS03011,Rape,10,-0.811,strong
+country_time_series,HU,Hungary,,ICCS03011,Rape,10,0.473,moderate
+country_time_series,IS,Iceland,,ICCS03011,Rape,10,0.059,very weak
+country_time_series,IE,Ireland,,ICCS03011,Rape,10,0.862,strong
+country_time_series,IT,Italy,,ICCS03011,Rape,0,,insufficient data
+country_time_series,LV,Latvia,,ICCS03011,Rape,10,-0.846,strong
+country_time_series,LI,Liechtenstein,,ICCS03011,Rape,10,-0.021,very weak
+country_time_series,LT,Lithuania,,ICCS03011,Rape,10,-0.554,moderate
+country_time_series,LU,Luxembourg,,ICCS03011,Rape,10,0.786,strong
+country_time_series,MT,Malta,,ICCS03011,Rape,10,0.675,moderate
+country_time_series,NL,Netherlands,,ICCS03011,Rape,10,0.893,strong
+country_time_series,NO,Norway,,ICCS03011,Rape,10,0.555,moderate
+country_time_series,PL,Poland,,ICCS03011,Rape,10,-0.857,strong
+country_time_series,PT,Portugal,,ICCS03011,Rape,10,0.62,moderate
+country_time_series,RO,Romania,,ICCS03011,Rape,10,0.966,strong
+country_time_series,SK,Slovakia,,ICCS03011,Rape,10,0.779,strong
+country_time_series,SI,Slovenia,,ICCS03011,Rape,10,0.737,strong
+country_time_series,ES,Spain,,ICCS03011,Rape,10,0.895,strong
+country_time_series,SE,Sweden,,ICCS03011,Rape,10,0.938,strong
+country_time_series,CH,Switzerland,,ICCS03011,Rape,10,0.916,strong
+country_time_series,TR,Türkiye,,ICCS03011,Rape,0,,insufficient data
+country_time_series,UK,United Kingdom,,ICCS03011,Rape,0,,insufficient data
+cross_country_snapshot,,,2023,ICCS03011,Rape,30,0.081,very weak
